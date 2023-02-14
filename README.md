@@ -1,2 +1,5 @@
 # gitCors
 noting
+
+
+project notes
